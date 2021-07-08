@@ -12,7 +12,6 @@
 * ###### NLTK package
 * ###### Various NLP Libraries
 * ###### Lexical analysis: Word and text tokenizer
-* ###### n-gram and collocations
 * ###### Part-of-speech tagger
 * ###### Named-entity recognition
 * ###### Summary
@@ -23,5 +22,5 @@
 * *Manisha sushma A*   :  Content Writing , Video Recording and Explanation   
 Readme.md , Video editing , creating pull request.
 
-* *Pranav Kapoor*   :  Content Writing,Video Creation, References  
+* *Pranav Kapoor*   :  Content Writing,Video Creation,Video Explanation, References  
 Readme.md , Video editing , creating pull request.
